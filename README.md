@@ -1,1 +1,1 @@
-👋 Hi, I’m @Degobi
+.NET Software Engineer
